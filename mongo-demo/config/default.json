@@ -1,0 +1,7 @@
+{
+    "name": "My Mongo Class",
+    "server": {
+        "name": "local",
+        "host": "localhost"
+    }
+}

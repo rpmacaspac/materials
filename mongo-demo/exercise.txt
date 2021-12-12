@@ -1,0 +1,3 @@
+
+mongoimport --db mongo-exercises --collection courses --drop --file exercise-data.json --jsonArray
+//-----------name of db---------collection name-------dropifexisting----file name-------type of file--
